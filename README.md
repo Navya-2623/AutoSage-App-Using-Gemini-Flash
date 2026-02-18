@@ -10,3 +10,6 @@ Quick responses
 Real-time applications
 Chatbots and AI assistants
 Low-latency tasks
+
+# Video link
+https://drive.google.com/file/d/1dsvs2SKGVSIILKLkgcdIV6dkoPW2q7kt/view?usp=drivesdk
